@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <!--
+                Add menu items here
+                Menu items with icon and Title
+        -->
+        <item
+            android:checked="false"
+            android:icon="@drawable/ic_verticals"
+            android:title="Mũtaratara" />
+<!--        Schedule-->
+        <item
+            android:id="@+id/Day"
+            android:checked="false"
+            android:icon="@drawable/ic_box"
+            android:title="Mũthenya" />
+<!--        Day-->
+        <item
+            android:id="@+id/threeday"
+            android:checked="true"
+            android:icon="@drawable/ic_columns"
+            android:title="Mĩthenya Ĩtatũ" />
+<!--        3 days-->
+        <item
+            android:visible="false"
+            android:id="@+id/Week"
+            android:checked="false"
+            android:icon="@drawable/ic_blocks"
+            android:title="Kiumia" />
+<!--        Week-->
+        <item
+            android:visible="false"
+            android:id="@+id/monthviewitem"
+            android:checked="false"
+            android:icon="@drawable/ic_bottom"
+            android:title="Mweri" />
+<!--        Month-->
+    </group>
+</menu>

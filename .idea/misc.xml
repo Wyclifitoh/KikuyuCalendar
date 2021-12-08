@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Kim/.gradle/caches/transforms-3/2fcfef9298301605506960f57fc93697/transformed/core-1.3.1/res/layout/custom_dialog.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/drawable-v24/white_touch.xml" value="0.22592592592592592" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/drawable-xhdpi/myrect.xml" value="0.22870370370370371" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/drawable/appbarstate.xml" value="0.23148148148148148" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/drawable/backselector.xml" value="0.22870370370370371" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/drawable/blackcircle.xml" value="0.22870370370370371" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/drawable/btnsignup_gradient.xml" value="0.9714285714285714" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/drawable/calendar_badged_icon.xml" value="0.22870370370370371" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/drawable/circle.xml" value="0.22870370370370371" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/drawable/eventcircle.xml" value="0.22870370370370371" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/drawable/ic_arrow_drop_up_black_24dp.xml" value="0.22685185185185186" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/drawable/ic_schedule.xml" value="0.23692307692307693" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/drawable/my_button.xml" value="0.23692307692307693" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/drawable/quantum_launchscreen_calendar.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/drawable/roundcorner.xml" value="0.22592592592592592" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/drawable/white_touch.xml" value="0.22592592592592592" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/layout/activity_activate.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/layout/activity_main.xml" value="0.2076923076923077" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/layout/activity_payment.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/layout/activity_splash.xml" value="0.2074074074074074" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/layout/drawerheader.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/layout/empty.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/layout/fraglay.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/layout/fragment_month.xml" value="0.21014492753623187" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/layout/gridlay.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/layout/headerview.xml" value="0.18611111111111112" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/layout/monthgriditem.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/layout/monthgriditemlspace.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/layout/noplanlay.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/layout/noplanlittlespace.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/layout/pay_dialog.xml" value="0.21203703703703702" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/layout/rangelay.xml" value="0.21014492753623187" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/layout/rangelayextrabottomspace.xml" value="0.21014492753623187" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/layout/rangelayextratopspace.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/layout/todayheader.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/layout/view_item.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/layout/viewitemlessspace.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/layout/viewlast.xml" value="0.33" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/layout/viewpagerlay.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/menu/menu_main.xml" value="0.18611111111111112" />
+        <entry key="..\:/Users/Kim/AndroidStudioProjects/KikuyuCalendar/app/src/main/res/menu/nav_item.xml" value="0.18611111111111112" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
